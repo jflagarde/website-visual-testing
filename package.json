@@ -1,6 +1,6 @@
 {
   "name": "website-visual-testing",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Take automatic screenshots of your web pages and do your own visual regression tests using Node, Jest and Puppeteer headless browser",
   "main": "./src/index.ts",
   "repository": "https://github.com/jflagarde/website-visual-testing.git",
